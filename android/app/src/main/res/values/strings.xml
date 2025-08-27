@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Building Hub</string>
+    <string name="title_activity_main">Building Hub</string>
+    <string name="package_name">com.buildinghub.app</string>
+    <string name="custom_url_scheme">com.buildinghub.app</string>
+</resources>
